@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="br">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="sortcut icon" href="logo.png" type="image/png">
+        <link href="style.css" rel="stylesheet">
+        <title>DesertGUN - Jogo</title>
+    </head>
+    <body>
+        <div id="menu-img">
+            <img src="logo.png" alt="Logo" id="logo">
+            <h1 id="titulo">DesertGUN</h1>
+        </div>
+
+        <div id="menu">
+            <a href="index.html">Página inicial</a>
+            <a href="devs.html">Desenvolvedores</a>
+            <a href="jogo.html">Jogar</a>
+        </div>
+
+        <div id="placar">
+            <p id="p1-name">Player 1</p>
+            <p id="p1-score">0</p>
+            <p> : </p>
+            <p id="p2-score">0</p>
+            <p id="p2-name">Player 2</p>
+
+        </div>
+
+        <canvas id="myCanvas" width="512" height="357"></canvas>
+        <div id="btns">
+            <input type="button" value="Iniciar" onmousedown="main();" class="btn">
+            <input type="button" value="Reiniciar" onmousedown="reset();" class="btn">
+        </div>
+
+        <p id="placarwin"></p>
+
+        <div id="instrucoes">
+            <p>
+                Instruções Player 1: <br>
+                W, A, S, D = Movimentar-se.<br>
+                Space = Atirar.</p>
+            <p>Instruções Player 2: <br>
+                Up, Left, Down, Right = Movimentar-se.<br>
+                0 = Atirar.</p>
+        </div>
+
+        <audio src="Aljiba.mp3"></audio>
+        <script src="script.js"></script>
+    </body>
+</html>
