@@ -12,4 +12,3 @@ Mini-game de tiro 2-players criado para o projeto da disciplina CC1620 - Desenvo
 
 * **Hugo Linhares**
 * **Breno A.C. Gonzaga**
-* 
