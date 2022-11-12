@@ -1,14 +1,21 @@
-# DesertGun
+# desert-gun
 
-Mini-game de tiro 2-players criado para o projeto da disciplina CC1620 - Desenvolvimento WEB usando o elemento Canvas do HTML. O objetivo do projeto era aplicar os conhecimentos sobre as tecnologias básicas da WEB, criando um site que inclusse uma breve descrição dos desenvolvedores, um jogo criativo e as orientações para jogá-lo.
+2-Players Shooter Mini-game created for the WEB Development course project using the HTML Canvas element. The project's objective was to apply the knowledge about the basic WEB technologies, creating a website that included a brief description of the developers, a creative game and the guidelines to play it.
 
-## 🛠️ Construído com
+## 🚀 Usage
 
-* HTML
-* CSS
-* JavaScript
+Just open the file `index.html` in your browser.
 
-## ✒️ Autores
+## 🧑‍💻 Authors
 
-* **Hugo Linhares**
-* **Breno A.C. Gonzaga**
+**Hugo Linhares**
+
+- Github: [@hugolinhareso](https://github.com/hugolinhareso)
+
+**Breno A. C. Gonzaga**
+
+- Github: -
+
+## 📝 License
+
+This project is [MIT](https://github.com/hugolinhareso/desert-gun/blob/main/LICENSE) licensed.
